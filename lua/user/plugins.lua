@@ -29,7 +29,6 @@ lazy.setup({
 	"akinsho/toggleterm.nvim",
 	"nvim-lualine/lualine.nvim",
 	"lukas-reineke/indent-blankline.nvim",
-	"goolord/alpha-nvim",
 	"antoinemadec/FixCursorHold.nvim",
 	"folke/which-key.nvim",
 	"lambdalisue/suda.vim",
