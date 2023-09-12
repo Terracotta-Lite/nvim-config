@@ -39,7 +39,6 @@ lazy.setup({
 	"mbbill/undotree",
 	"karb94/neoscroll.nvim",
 	{ "kevinhwang91/nvim-ufo", dependencies = "kevinhwang91/promise-async" },
-	"petertriho/nvim-scrollbar",
 	"p00f/cphelper.nvim",
 	"zaldih/themery.nvim",
 	{
