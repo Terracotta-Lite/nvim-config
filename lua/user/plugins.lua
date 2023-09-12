@@ -41,7 +41,6 @@ lazy.setup({
 	"karb94/neoscroll.nvim",
 	{ "kevinhwang91/nvim-ufo", dependencies = "kevinhwang91/promise-async" },
 	"petertriho/nvim-scrollbar",
-	"f-person/auto-dark-mode.nvim",
 	"p00f/cphelper.nvim",
 	"zaldih/themery.nvim",
 	{
