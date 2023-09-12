@@ -32,7 +32,6 @@ NVIM_APPNAME=ahmetemregurdal/nvim-config/ nvim
 + [rebelot/kanagawa.nvim](https://dotfyle.com/plugins/rebelot/kanagawa.nvim)
 ### colorscheme-switchers
 
-+ [f-person/auto-dark-mode.nvim](https://dotfyle.com/plugins/f-person/auto-dark-mode.nvim)
 + [zaldih/themery.nvim](https://dotfyle.com/plugins/zaldih/themery.nvim)
 ### comment
 
@@ -86,17 +85,11 @@ NVIM_APPNAME=ahmetemregurdal/nvim-config/ nvim
 + [ahmedkhalf/project.nvim](https://dotfyle.com/plugins/ahmedkhalf/project.nvim)
 ### scrollbar
 
-+ [petertriho/nvim-scrollbar](https://dotfyle.com/plugins/petertriho/nvim-scrollbar)
-### scrolling
-
 + [karb94/neoscroll.nvim](https://dotfyle.com/plugins/karb94/neoscroll.nvim)
 ### snippet
 
 + [L3MON4D3/LuaSnip](https://dotfyle.com/plugins/L3MON4D3/LuaSnip)
 ### startup
-
-+ [goolord/alpha-nvim](https://dotfyle.com/plugins/goolord/alpha-nvim)
-### statusline
 
 + [nvim-lualine/lualine.nvim](https://dotfyle.com/plugins/nvim-lualine/lualine.nvim)
 ### syntax
